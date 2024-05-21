@@ -37,4 +37,10 @@ If you find TransBTS useful for your research and applications, please cite usin
   year={2021},
   organization={Springer}
 }
+@article{oktay2018attention,
+  title={Attention u-net: Learning where to look for the pancreas},
+  author={Oktay, Ozan and Schlemper, Jo and Folgoc, Loic Le and Lee, Matthew and Heinrich, Mattias and Misawa, Kazunari and Mori, Kensaku and McDonagh, Steven and Hammerla, Nils Y and Kainz, Bernhard and others},
+  journal={arXiv preprint arXiv:1804.03999},
+  year={2018}
+}
 ```
