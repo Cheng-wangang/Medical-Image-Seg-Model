@@ -21,3 +21,18 @@ If you find 3D-TransUNet useful for your research and applications, please cite 
   journal={arXiv preprint arXiv:2310.07781},
   year={2023}
 }
+```
+# 2024年5月21日
+上传了[TransBTS](https://github.com/Rubics-Xuan/TransBTS),该网络架构用于Brats脑肿瘤数据集的3D分割。可以在`model = BTS()`里面修改自己想要的参数.
+## Acknowledgements
+If you find TransBTS useful for your research and applications, please cite using this BibTeX:
+```bibtex
+@inproceedings{wang2021transbts,
+  title={TransBTS: Multimodal Brain Tumor Segmentation Using Transformer},
+  author={Wang, Wenxuan and Chen, Chen and Ding, Meng and Yu, Hong and Zha, Sen and Li, Jiangyun},
+  booktitle={Medical Image Computing and Computer Assisted Intervention--MICCAI 2021: 24th International Conference, Strasbourg, France, September 27--October 1, 2021, Proceedings, Part I 24},
+  pages={109--119},
+  year={2021},
+  organization={Springer}
+}
+```
