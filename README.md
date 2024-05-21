@@ -24,6 +24,8 @@ If you find 3D-TransUNet useful for your research and applications, please cite 
 ```
 # 2024年5月21日
 上传了[TransBTS](https://github.com/Rubics-Xuan/TransBTS),该网络架构用于Brats脑肿瘤数据集的3D分割。可以在`model = BTS()`里面修改自己想要的参数.
+
+上传了[AttUnet](https://github.com/ozan-oktay/Attention-Gated-Networks)，该网络是经典的医学图像分割框架。
 ## Acknowledgements
 If you find TransBTS useful for your research and applications, please cite using this BibTeX:
 ```bibtex
