@@ -44,3 +44,14 @@ If you find TransBTS useful for your research and applications, please cite usin
   year={2018}
 }
 ```
+# 2023年5月27日
+上传了[SegMamba](https://github.com/ge-xing/SegMamba),运行该代码时请先装好`pytorch`，建议重新创建一个环境，然后按照官方的安装步骤安装依赖即可。
+## Acknowledgements
+```bibtex
+@article{xing2024segmamba,
+  title={Segmamba: Long-range sequential modeling mamba for 3d medical image segmentation},
+  author={Xing, Zhaohu and Ye, Tian and Yang, Yijun and Liu, Guang and Zhu, Lei},
+  journal={arXiv preprint arXiv:2401.13560},
+  year={2024}
+}
+```
